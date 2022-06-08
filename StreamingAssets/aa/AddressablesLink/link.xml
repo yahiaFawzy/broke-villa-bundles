@@ -19,6 +19,7 @@
     <type fullname="UnityEngine.MeshFilter" preserve="all" />
     <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.RenderTexture" preserve="all" />
     <type fullname="UnityEngine.Cubemap" preserve="all" />
     <type fullname="UnityEngine.RenderSettings" preserve="all" />
     <type fullname="UnityEngine.Light" preserve="all" />
@@ -37,6 +38,7 @@
   </assembly>
   <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
@@ -55,6 +57,7 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="NftDetailsMenu" preserve="all" />
     <type fullname="Assets.Scripts.Helpers.Singlton.SingltonBinder" preserve="all" />
+    <type fullname="InteractionManager" preserve="all" />
     <type fullname="NFTHolder2D" preserve="all" />
     <type fullname="Server" preserve="all" />
     <type fullname="RTG.RTGizmosEngine" preserve="all" />
@@ -70,6 +73,8 @@
     <type fullname="EditorMenuV2" preserve="all" />
     <type fullname="RTG.RTCameraBackground" preserve="all" />
     <type fullname="VillaStartLocation" preserve="all" />
+    <type fullname="Tv" preserve="all" />
+    <type fullname="PlayerInteraction" preserve="all" />
     <type fullname="RoomSetup" preserve="all" />
     <type fullname="NftGalleryItem" preserve="all" />
     <type fullname="RTG.RTGApp" preserve="all" />
@@ -79,6 +84,13 @@
     <type fullname="NFTHolder3D" preserve="all" />
     <type fullname="RTG.RTSceneGrid" preserve="all" />
     <type fullname="NftHoldersManager" preserve="all" />
+  </assembly>
+  <assembly fullname="Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Cinemachine.CinemachineVirtualCamera" preserve="all" />
+    <type fullname="Cinemachine.CinemachinePipeline" preserve="all" />
+    <type fullname="Cinemachine.Cinemachine3rdPersonFollow" preserve="all" />
+    <type fullname="Cinemachine.NoiseSettings" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBasicMultiChannelPerlin" preserve="all" />
   </assembly>
   <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalCameraData" preserve="all" />
@@ -105,5 +117,8 @@
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
     <type fullname="UnityEngine.Canvas" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Video.VideoPlayer" preserve="all" />
   </assembly>
 </linker>
