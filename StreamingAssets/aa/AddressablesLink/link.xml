@@ -41,14 +41,15 @@
     <type fullname="UnityEngine.AudioSource" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
     <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
     <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
     <type fullname="UnityEngine.UI.Text" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
-    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
     <type fullname="UnityEngine.UI.Button" preserve="all" />
     <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
     <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
     <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
     <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
@@ -72,7 +73,7 @@
     <type fullname="RTG.RTFocusCamera" preserve="all" />
     <type fullname="EditorMenuV2" preserve="all" />
     <type fullname="RTG.RTCameraBackground" preserve="all" />
-    <type fullname="VillaStartLocation" preserve="all" />
+    <type fullname="PlayerSetupBasedVilla" preserve="all" />
     <type fullname="Tv" preserve="all" />
     <type fullname="PlayerInteraction" preserve="all" />
     <type fullname="RoomSetup" preserve="all" />
