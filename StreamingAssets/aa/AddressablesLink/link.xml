@@ -59,8 +59,6 @@
     <type fullname="NftDetailsMenu" preserve="all" />
     <type fullname="Assets.Scripts.Helpers.Singlton.SingltonBinder" preserve="all" />
     <type fullname="InteractionManager" preserve="all" />
-    <type fullname="NFTHolder2D" preserve="all" />
-    <type fullname="Server" preserve="all" />
     <type fullname="RTG.RTGizmosEngine" preserve="all" />
     <type fullname="CheckBox" preserve="all" />
     <type fullname="RTG.RTInputDevice" preserve="all" />
@@ -76,15 +74,21 @@
     <type fullname="PlayerSetupBasedVilla" preserve="all" />
     <type fullname="Tv" preserve="all" />
     <type fullname="PlayerInteraction" preserve="all" />
+    <type fullname="UniGifDisplayImage" preserve="all" />
+    <type fullname="NftHolderSprite" preserve="all" />
     <type fullname="RoomSetup" preserve="all" />
     <type fullname="NftGalleryItem" preserve="all" />
     <type fullname="RTG.RTGApp" preserve="all" />
     <type fullname="NftGalleryMenu" preserve="all" />
     <type fullname="RTG.RTScene" preserve="all" />
+    <type fullname="NftHolderVideo" preserve="all" />
     <type fullname="RaycastManager" preserve="all" />
     <type fullname="NFTHolder3D" preserve="all" />
+    <type fullname="NFTHolderGif" preserve="all" />
     <type fullname="RTG.RTSceneGrid" preserve="all" />
     <type fullname="NftHoldersManager" preserve="all" />
+    <type fullname="AlternativeLightingData" preserve="all" />
+    <type fullname="BackedLightMapSwitcher" preserve="all" />
   </assembly>
   <assembly fullname="Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Cinemachine.CinemachineVirtualCamera" preserve="all" />
