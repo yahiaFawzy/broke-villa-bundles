@@ -57,13 +57,13 @@
   </assembly>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="NftDetailsMenu" preserve="all" />
+    <type fullname="AlternativeLightingData" preserve="all" />
     <type fullname="Assets.Scripts.Helpers.Singlton.SingltonBinder" preserve="all" />
     <type fullname="InteractionManager" preserve="all" />
     <type fullname="RTG.RTGizmosEngine" preserve="all" />
     <type fullname="CheckBox" preserve="all" />
     <type fullname="RTG.RTInputDevice" preserve="all" />
     <type fullname="RTG.Tut_2_MultipleTargetObjects" preserve="all" />
-    <type fullname="ServerManager" preserve="all" />
     <type fullname="RTG.RTUndoRedo" preserve="all" />
     <type fullname="FreeFlyCamera" preserve="all" />
     <type fullname="ServerCalls" preserve="all" />
@@ -71,6 +71,7 @@
     <type fullname="RTG.RTFocusCamera" preserve="all" />
     <type fullname="EditorMenuV2" preserve="all" />
     <type fullname="RTG.RTCameraBackground" preserve="all" />
+    <type fullname="Server" preserve="all" />
     <type fullname="PlayerSetupBasedVilla" preserve="all" />
     <type fullname="Tv" preserve="all" />
     <type fullname="PlayerInteraction" preserve="all" />
@@ -83,12 +84,12 @@
     <type fullname="RTG.RTScene" preserve="all" />
     <type fullname="NftHolderVideo" preserve="all" />
     <type fullname="RaycastManager" preserve="all" />
+    <type fullname="BackedLightMapSwitcher" preserve="all" />
     <type fullname="NFTHolder3D" preserve="all" />
     <type fullname="NFTHolderGif" preserve="all" />
     <type fullname="RTG.RTSceneGrid" preserve="all" />
     <type fullname="NftHoldersManager" preserve="all" />
-    <type fullname="AlternativeLightingData" preserve="all" />
-    <type fullname="BackedLightMapSwitcher" preserve="all" />
+    <type fullname="VillaDoor" preserve="all" />
   </assembly>
   <assembly fullname="Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Cinemachine.CinemachineVirtualCamera" preserve="all" />
